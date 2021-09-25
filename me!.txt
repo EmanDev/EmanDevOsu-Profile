@@ -7,7 +7,15 @@
 [centre]I am EmanDev from the Philippines. I am a student of Bicol University College of Engineering - Electrical Engineering Department and a soon to be Electrical Engineer!!![/centre]
 [centre]I like guitars and computers. With my love/like to computers, playing games is common. For a fact, I play Dota 2, osu!, minesweeper, chess, and more.[/centre]
 
-[centre]Gotoubun no Katachi: [audio]https://raw.githubusercontent.com/EmanDev/EmanDevOsu-Profile/main/audio/Gotoubun-no-Katachi.mp3[/audio][/centre]
+[centre]Gotoubun no Kimochi [audio]https://raw.githubusercontent.com/EmanDev/EmanDevOsu-Profile/main/audio/Gotoubun-no-Katachi.mp3[/audio][/centre]
+
+[centre]Gotoubun no Katachi [audio]https://raw.githubusercontent.com/EmanDev/EmanDevOsu-Profile/main/audio/Gotoubun-no-Katachi.mp3[/audio][/centre]
+
+[box=Nino Nakano Confessions]
+[centre]Nino Confessing to Fuutarou - 1 [audio]https://raw.githubusercontent.com/EmanDev/EmanDevOsu-Profile/main/audio/nino-confess.mp3[/audio][/centre]
+
+[centre]Nino Confessing Fuutarou - 2 [audio]https://raw.githubusercontent.com/EmanDev/EmanDevOsu-Profile/main/audio/nino-confessing-2.mp3[/audio][/centre]
+[/box]
 
 [box=Connect]
 [list]
@@ -25,7 +33,7 @@
 [*] Mouse = Fantech Crypto VX7
 [*] Keyboard = Redragon Lakshmi K606 (switches are Outemu Blues, Outemu Reds for Q-W-E-R-V-B keys, and Outemu Blacks for G-H keys.)
 [*] Tablet = XP Pen Star G640
-[*] Tablet Covers = [url=https://raw.githubusercontent.com/EmanDev/EmanDevOsu-Profile/main/images/tablet-cover1.png]Nino Tablet Cover 1[/url], [url=https://raw.githubusercontent.com/EmanDev/EmanDevOsu-Profile/main/images/tablet-cover2.png]Nino Tablet Cover 2[/url], and [url=https://raw.githubusercontent.com/EmanDev/EmanDevOsu-Profile/main/images/tablet-cover3.png]Nino Tablet Cover 3[/url].
+[*] Tablet Covers (Lossless Resolution) = [url=https://raw.githubusercontent.com/EmanDev/EmanDevOsu-Profile/main/images/tablet-cover1.png]Nino Tablet Cover 1[/url], [url=https://raw.githubusercontent.com/EmanDev/EmanDevOsu-Profile/main/images/tablet-cover2.png]Nino Tablet Cover 2[/url], and [url=https://raw.githubusercontent.com/EmanDev/EmanDevOsu-Profile/main/images/tablet-cover3.png]Nino Tablet Cover 3[/url].
 [/list][/box]
 
 [centre][img]https://raw.githubusercontent.com/EmanDev/EmanDevOsu-Profile/main/images/nino2-osu-cover.png[/img][/centre]
