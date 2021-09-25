@@ -7,6 +7,8 @@
 [centre]I am EmanDev from the Philippines. I am a student of Bicol University College of Engineering - Electrical Engineering Department and a soon to be Electrical Engineer!!![/centre]
 [centre]I like guitars and computers. With my love/like to computers, playing games is common. For a fact, I play Dota 2, osu!, minesweeper, chess, and more.[/centre]
 
+[centre]Gotoubun no Katachi: [audio]https://raw.githubusercontent.com/EmanDev/EmanDevOsu-Profile/main/audio/Gotoubun-no-Katachi.mp3[/audio][/centre]
+
 [box=Connect]
 [list]
 [*][url=https://emandev.github.io/]EmanDev.GitHub.Io[/url]
