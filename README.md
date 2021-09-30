@@ -13,3 +13,6 @@ https://osu.ppy.sh/users/8283257
 2. Audacity
 3. Camtasia
 4. Notepad++
+
+## Plans
+- Add colors
