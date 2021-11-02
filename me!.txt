@@ -1,5 +1,7 @@
 [centre][img]https://raw.githubusercontent.com/EmanDev/EmanDevOsu-Profile/main/images/nino-osu-cover.png[/img][/centre]
 
+[centre][img]https://raw.githubusercontent.com/EmanDev/EmanDevOsu-Profile/main/images/nino-wallpaper.png[/img][/centre]
+
 [centre][img]https://raw.githubusercontent.com/EmanDev/EmanDevOsu-Profile/main/images/short-hair-nino-nakano.gif[/img][/centre]
 
 [centre][youtube]IuHBOfVJUTM[/youtube][/centre]
@@ -26,6 +28,12 @@
 [*][url=https://github.com/EmanDev]GitHub[/url]
 [*][url=https://twitter.com/MonoChrome_Dev]Twitter[/url]
 [*][url=https://www.youtube.com/channel/UCtRWt7r0ZTyp1MrHhsZxOUA/featured?view_as=subscriber]YouTube[/url]
+[/list][/box]
+
+[box=Supplies]
+[list]
+[*][url=https://github.com/EmanDev/EmanDevOsu-Profile]Profile Repository[/url]
+[*][url=https://github.com/EmanDev/NinoNakano]Nino Nakano Repository[/url]
 [/list][/box]
 
 [box=Weapons]
